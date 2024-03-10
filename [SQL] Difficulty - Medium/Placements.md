@@ -2,6 +2,7 @@ Problem info:
 
 [PROBLEM - HackerRank](https://www.hackerrank.com/challenges/placements/)
 
+**Solution:**
 ````sql
 
 WITH friend 
