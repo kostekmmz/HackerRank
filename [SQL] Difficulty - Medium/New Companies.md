@@ -1,7 +1,8 @@
 Problem info:
 
-https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true
+[PROBLEM - HackerRank](https://www.hackerrank.com/challenges/the-company/))
 
+**Solution:**
 ````sql
 SELECT DISTINCT c.company_code, 
 c.founder,
