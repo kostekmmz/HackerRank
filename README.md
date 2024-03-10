@@ -1,2 +1,2 @@
 # HackerRank
-Solutions SQL HackerRank
+Solutions SQL HackerRank in MySQL
