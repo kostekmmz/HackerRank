@@ -1,3 +1,7 @@
+Problem info:
+
+[PROBLEM - HackerRank](https://www.hackerrank.com/challenges/contest-leaderboard))
+
 ````sql
 select 
 a.hacker_id,
